@@ -18,7 +18,8 @@ const App = ()=> {
       <Feedbacks/>
       <div className='relative z-0'>
           <Contact/>
-          <StarsCanvas/>
+          {/* star canvas creating problem */}
+          {/* <StarsCanvas/> */}
       </div>
     </div>
     </BrowserRouter>    
