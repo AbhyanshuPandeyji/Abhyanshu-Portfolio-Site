@@ -238,6 +238,7 @@ const projects = [
     ],
     image: jobit,
     source_code_link: "https://github.com/",
+    live_link: "https://github.com/",
   },
   {
     name: "Trip Guide",

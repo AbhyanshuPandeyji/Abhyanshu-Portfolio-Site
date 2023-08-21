@@ -38,9 +38,9 @@ const Hero = () => {
             <a href="#about">
               <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary 
               flex justify-center items-start p-2'>
-                  <motion.dev
+                  <motion.div
                   animate={{
-                    y:[0 ,25 , 0]
+                    y:[0 , 25 , 0]
                   }}
                   transition={{
                     duration : 1.5,
